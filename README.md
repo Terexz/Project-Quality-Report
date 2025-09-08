@@ -77,8 +77,4 @@ The overall quality of the application can be estimated as **Low**.
 ## 👨‍💻 QA Team
 - **Company:** Company Name  
 - **QA Manager:** Manager's Name  
-- **QA Engineer:** Roby Chowdhury  
-
----
-
-## 📂 Repository Structure (suggested)
+- **QA Engineer:** Roby Chowdhury
